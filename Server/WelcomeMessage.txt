@@ -1,0 +1,10 @@
+
+
+    █▀▄▀█ █▀▀█ ░▀░ █▀▀█
+    █░▀░█ █░░█ ▀█▀ █░░█   By @Oranos
+    ▀░░░▀ ▀▀▀▀ ▀▀▀ █▀▀▀
+
+  Welcome! Connected to Moip server %s
+  ___________________________________________
+
+  Create a nick name for %s

@@ -1,0 +1,4 @@
+Acounts.db
+Acounts.db-journal
+/.idea
+.__pycache__
